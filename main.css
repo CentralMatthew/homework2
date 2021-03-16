@@ -1,0 +1,29 @@
+body {
+    background: rgb(51, 184, 224);
+    margin: 0px
+}
+
+.header>img {
+    padding-left: 25%;
+}
+
+.list {
+    border: 10px solid crimson;
+    width: 200px;
+    background: burlywood;
+}
+
+.header {
+    background: bisque;
+    font-style: italic;
+}
+
+hr {
+    border: 5px solid black;
+}
+
+.footer {
+    width: 250px;
+    font-family: Castellar;
+    background: azure;
+}
